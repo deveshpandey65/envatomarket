@@ -1,9 +1,9 @@
 {
+  "homepage": "https://deveshpandey65.github.io/envatomarket",
   "name": "assi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "https://deveshpandey65.github.io/envatomarket",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "dat.gui": "^0.7.9",
